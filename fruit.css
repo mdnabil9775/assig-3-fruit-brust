@@ -1,0 +1,35 @@
+
+.font-lato{
+    font-family: 'Lato', sans-serif;
+}
+#slide1{
+    background-image: url(./images/banner1.png), linear-gradient(180deg, #000000 0%, rgba(18, 18, 18, 0.10) 100%);
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#slide2{
+    background-image: url(./images/banner2.png), linear-gradient(180deg, #000000 0%, rgba(18, 18, 18, 0.10) 100%);
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+#slide3{
+    background-image: url(./images/banner3.png), linear-gradient(180deg, #000000 0%, rgba(18, 18, 18, 0.10) 100%);
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#slide4{
+    background-image: url(./images/banner4.png), linear-gradient(180deg, #000000 0%, rgba(18, 18, 18, 0.10) 100%);
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
